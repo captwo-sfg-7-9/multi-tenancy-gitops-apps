@@ -1,0 +1,4 @@
+dependencies:
+  - name: cap1
+    version: 0.0.1
+    #repository: <repo>
